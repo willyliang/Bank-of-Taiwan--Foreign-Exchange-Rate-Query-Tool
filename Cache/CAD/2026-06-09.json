@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "CAD",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  22.2,
+                      "CashSell":  23.11,
+                      "SpotBuy":  22.6,
+                      "SpotSell":  22.8
+                  },
+    "fetchedAt":  "2026-06-09T14:47:07"
+}
