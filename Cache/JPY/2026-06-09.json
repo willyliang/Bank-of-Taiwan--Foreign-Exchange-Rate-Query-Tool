@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "JPY",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  0.1881,
+                      "CashSell":  0.2009,
+                      "SpotBuy":  0.1954,
+                      "SpotSell":  0.1994
+                  },
+    "fetchedAt":  "2026-06-09T10:36:40"
+}
