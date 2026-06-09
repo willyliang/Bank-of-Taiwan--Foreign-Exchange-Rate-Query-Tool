@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "HKD",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  3.882,
+                      "CashSell":  4.086,
+                      "SpotBuy":  4.008,
+                      "SpotSell":  4.068
+                  },
+    "fetchedAt":  "2026-06-09T15:40:45"
+}
