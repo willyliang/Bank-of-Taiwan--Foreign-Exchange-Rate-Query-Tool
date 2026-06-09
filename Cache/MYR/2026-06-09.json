@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "MYR",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  6.769,
+                      "CashSell":  8.294,
+                      "SpotBuy":  0,
+                      "SpotSell":  0
+                  },
+    "fetchedAt":  "2026-06-09T15:44:59"
+}
