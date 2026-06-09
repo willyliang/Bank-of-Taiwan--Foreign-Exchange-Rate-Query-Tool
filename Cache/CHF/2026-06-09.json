@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "CHF",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  38.9,
+                      "CashSell":  40.1,
+                      "SpotBuy":  39.58,
+                      "SpotSell":  39.83
+                  },
+    "fetchedAt":  "2026-06-09T15:37:26"
+}
