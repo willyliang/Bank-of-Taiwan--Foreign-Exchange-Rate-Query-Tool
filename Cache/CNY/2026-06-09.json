@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "CNY",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  4.577,
+                      "CashSell":  4.739,
+                      "SpotBuy":  4.649,
+                      "SpotSell":  4.699
+                  },
+    "fetchedAt":  "2026-06-09T15:38:53"
+}
