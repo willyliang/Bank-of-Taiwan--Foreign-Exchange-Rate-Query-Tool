@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "SGD",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  24.03,
+                      "CashSell":  24.94,
+                      "SpotBuy":  24.52,
+                      "SpotSell":  24.7
+                  },
+    "fetchedAt":  "2026-06-09T15:49:22"
+}
