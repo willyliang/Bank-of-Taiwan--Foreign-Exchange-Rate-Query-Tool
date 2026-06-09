@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "PHP",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  0.4484,
+                      "CashSell":  0.5804,
+                      "SpotBuy":  0,
+                      "SpotSell":  0
+                  },
+    "fetchedAt":  "2026-06-09T15:46:35"
+}
