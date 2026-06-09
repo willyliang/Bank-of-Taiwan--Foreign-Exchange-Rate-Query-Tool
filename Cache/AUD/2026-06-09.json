@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "AUD",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  21.89,
+                      "CashSell":  22.67,
+                      "SpotBuy":  22.18,
+                      "SpotSell":  22.38
+                  },
+    "fetchedAt":  "2026-06-09T13:41:51"
+}
