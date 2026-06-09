@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "EUR",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  35.71,
+                      "CashSell":  37.05,
+                      "SpotBuy":  36.33,
+                      "SpotSell":  36.73
+                  },
+    "fetchedAt":  "2026-06-09T15:39:45"
+}
