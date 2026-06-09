@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "THB",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  0.8344,
+                      "CashSell":  1.0244,
+                      "SpotBuy":  0.9478,
+                      "SpotSell":  0.9878
+                  },
+    "fetchedAt":  "2026-06-09T15:56:16"
+}
