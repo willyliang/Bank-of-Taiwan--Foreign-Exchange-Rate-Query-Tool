@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "SEK",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  0.00000,
+                      "CashSell":  0.00000,
+                      "SpotBuy":  3.31,
+                      "SpotSell":  3.41
+                  },
+    "fetchedAt":  "2026-06-09T15:47:28"
+}
