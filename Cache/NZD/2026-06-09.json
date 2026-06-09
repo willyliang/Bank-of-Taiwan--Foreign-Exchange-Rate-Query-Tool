@@ -1,0 +1,12 @@
+﻿{
+    "date":  "2026-06-09",
+    "currency":  "NZD",
+    "closeRate":  {
+                      "Date":  "2026-06-09",
+                      "CashBuy":  17.91,
+                      "CashSell":  18.76,
+                      "SpotBuy":  18.29,
+                      "SpotSell":  18.49
+                  },
+    "fetchedAt":  "2026-06-09T10:36:45"
+}
